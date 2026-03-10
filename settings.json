@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
-    "port": 50491,
+    "ip": "stevechill.play.hosting",
+    "port": 25565,
     "version": "1.21.11"
   },
   "position": {
